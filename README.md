@@ -10,7 +10,9 @@ Images:
   - alpha.jpg
 ```
 
-Each branch contains different "solutions":
+We are looking for the best way(s) to include `cpp-yaml` in a project.
+
+Each branch contains a possible "solution":
 
 - `master`: a `main.cpp` file with the yaml related code commented out.
 - `add-subdirectory`: `yaml-cpp` included through `add_subdirectory()`.
