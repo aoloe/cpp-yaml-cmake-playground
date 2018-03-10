@@ -20,5 +20,5 @@ Each branch contains different "solutions":
 - Download this repository.
 - Go in the `src` directory and create a `build` directory.
 - In the `build` directory, run `cmake .. && make`.
-- Run `./playground/playground.  
+- Run `./playground/playground`.  
   (The executable should run and do nothing.)
